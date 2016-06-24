@@ -1,0 +1,8 @@
+a=input('Vuvedete a : ')
+a=float(a)
+b=input('Vuvedete b: ')
+b=float(b)
+h=input('Vuvedete h : ')
+h=float(h)
+s=(a+b)/(2*h)
+print('S= ',s)
