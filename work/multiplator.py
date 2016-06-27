@@ -1,7 +1,7 @@
 import math
 n=int(input("Enter n = "))
 numbers =[1]
-if n<3200000:
+if n<=3200000:
       for x in range(1,3200000):
             result=x*x
             numbers.append(result)
